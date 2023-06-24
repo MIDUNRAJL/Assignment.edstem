@@ -72,10 +72,6 @@
       margin-top: 18px;
       margin-bottom: 18px;
    }
-
-   #darrow{
-      width: 10px;
-   }
    #maintain-1{
       flex-direction: row;
       background-color: rgba(114, 114, 114, 0.2);
@@ -107,13 +103,9 @@
    #search{
     box-sizing: border-box;
     height: 40px;
-    left: 60.76%;
-    right: 15.81%;
-    top: 120px;
     background: #FFFFFF;
     border: 1px solid #D3D7DC;
     border-radius: 4px;
-    /* margin-left: 648px; */
     margin-top: 50px;
     margin-right: 50px;
     padding: 10px;
